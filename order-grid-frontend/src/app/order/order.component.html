@@ -1,0 +1,59 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap" rel="stylesheet">
+
+<div class="action-bar">
+    <button class="add-btn">{{addBtnTitle}}</button>
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th [hidden]="true">Id</th>
+            <th>Date</th>
+            <th>Order Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Quantity</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let order of orders" [ngStyle]="{'background-color': order.id % 2 === 0 ? '#f0f0f0' : 'none'}">
+            <td [hidden]="true">{{order.id}}</td>
+            <td>{{order.date}}</td>
+            <td>{{order.orderId}}</td>
+            <td>{{order.name}}</td>
+            <td>{{order.price}}</td>
+            <td>{{order.quantity}}</td>
+            <td>{{order.total}}</td>
+        </tr>
+    </tbody>
+</table>
+
+
+<div class="form">
+    <div class="date-field field">
+        <label for="date">Date</label>
+        <input type="date" id="date"/>
+    </div>
+    <div class="name-field field">
+        <label for="name" id="name">Name</label>
+        <input type="text" id="name">
+    </div>
+    <div class="price-field field">
+        <label for="price" id="price">Price</label>
+        <input type="number" id="price">
+    </div>
+    <div class="quantity-field field">
+        <label for="quantity" id="quantity">Quantity</label>
+        <input type="number" id="quantity">
+    </div>
+    <div class="total-field field">
+        <label for="total" id="total">Total</label>
+        <input type="number" id="total">
+    </div>
+    <div class="submit-button-field field">
+        <button (click)="saveAndExit()">Submit</button>
+    </div>
+</div>

@@ -1,0 +1,1051 @@
+
+Initial Chunk Files   | Names         |  Raw Size
+vendor.js             | vendor        |   2.09 MB |
+polyfills.js          | polyfills     | 314.29 kB |
+styles.css, styles.js | styles        | 209.42 kB |
+main.js               | main          |  15.81 kB |
+runtime.js            | runtime       |   6.54 kB |
+
+| Initial Total |   2.62 MB
+
+Build at: 2023-03-28T21:09:48.963Z - Hash: 1c05574cb9708a66 - Time: 11107ms
+
+** Angular Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+
+
+√ Compiled successfully.
+
+5 unchanged chunks
+
+Build at: 2023-03-28T21:09:50.223Z - Hash: 1c05574cb9708a66 - Time: 848ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 15.84 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:15:02.311Z - Hash: f1f59d4d499cf04f - Time: 4341ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 15.95 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:15:32.935Z - Hash: c1dc6371c79e321d - Time: 774ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.02 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:15:39.204Z - Hash: 198dca84ee03a6e3 - Time: 583ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.02 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:15:46.898Z - Hash: 4d92d2ebf8d95d2d - Time: 552ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.10 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:15:55.318Z - Hash: 3a659e9293a9eb3d - Time: 563ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.10 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:15:59.195Z - Hash: 7a839d8b3b013a82 - Time: 492ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.10 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:16:02.041Z - Hash: e403d67a9628f8ed - Time: 410ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.10 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:16:05.593Z - Hash: bdfd5eb933941356 - Time: 421ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.11 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:16:07.725Z - Hash: 3f30f6bedb21f8b4 - Time: 419ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.11 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:16:11.506Z - Hash: 6770a0579c82e7d5 - Time: 491ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.11 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:16:16.650Z - Hash: 5dd0bb763fb53c25 - Time: 436ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.16 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:16:33.178Z - Hash: cb9f70fec609b185 - Time: 551ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.16 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:16:33.888Z - Hash: 13aad43e65bedb5f - Time: 569ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.16 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:16:43.381Z - Hash: 4e9220dea9ecd782 - Time: 445ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.22 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:16:53.776Z - Hash: a4645394df40a1fb - Time: 518ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.31 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:17:02.509Z - Hash: aa7f08284a48b75d - Time: 699ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.37 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:17:18.916Z - Hash: 5f431250dd864940 - Time: 597ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.37 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:17:23.283Z - Hash: 4fa20f5138480836 - Time: 481ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.37 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:17:27.254Z - Hash: 1d826567239de2dc - Time: 436ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.59 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:17:50.203Z - Hash: a607c3dfe45c171a - Time: 410ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.60 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:17:56.410Z - Hash: 6d9c3d91162182c8 - Time: 514ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.61 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:18:13.942Z - Hash: a15c6b7ab0a97e75 - Time: 482ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.72 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:18:21.035Z - Hash: 7777ebebad0472cb - Time: 537ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.77 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:18:27.691Z - Hash: c2ed7bc416c4cbe8 - Time: 431ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.76 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:18:33.419Z - Hash: 95aa8d8e91878ba9 - Time: 412ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.76 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:18:41.619Z - Hash: 30f7c347636a6263 - Time: 477ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.85 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:19:03.807Z - Hash: 3c72048a8db61a96 - Time: 526ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.92 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:19:10.767Z - Hash: 09a2bce460f7d1d2 - Time: 501ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 16.98 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:19:26.358Z - Hash: 677cb86e2d3629f1 - Time: 488ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 17.05 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:19:38.628Z - Hash: c292f0a77d0c44af - Time: 450ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 17.13 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:19:49.144Z - Hash: ca047d4240ed10cb - Time: 444ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 17.30 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:20:11.220Z - Hash: 6d08f47d72c30231 - Time: 477ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 10.25 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:21:03.205Z - Hash: 197544120ce088cb - Time: 749ms
+
+× Failed to compile.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 10.25 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:21:12.866Z - Hash: 1534fbf7d604f1eb - Time: 557ms
+
+× Failed to compile.
+
+Initial Chunk Files | Names   | Raw Size
+runtime.js          | runtime |  6.54 kB |
+
+4 unchanged chunks
+
+Build at: 2023-03-28T21:21:36.384Z - Hash: f445f746117994c6 - Time: 758ms
+
+× Failed to compile.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 17.45 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:21:53.284Z - Hash: 38a67cd9fca8bd36 - Time: 627ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 17.45 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:21:54.770Z - Hash: e67e359f6a15631a - Time: 555ms
+
+× Failed to compile.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 17.45 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:21:58.890Z - Hash: e06c718e64e45299 - Time: 462ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 17.48 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:22:10.994Z - Hash: 0e4853c2d8e245f0 - Time: 459ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 17.48 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:22:15.791Z - Hash: febf8777b68979e1 - Time: 492ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 17.75 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:23:13.273Z - Hash: 82c96aa73f374860 - Time: 474ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 17.78 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:23:41.558Z - Hash: 1ce14a5d2c2b145a - Time: 500ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 17.96 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:23:54.714Z - Hash: 44e7f73e3af1c0e1 - Time: 417ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 17.97 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:24:07.437Z - Hash: 6fe633ea2b17d75c - Time: 543ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 18.05 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:24:10.314Z - Hash: 03e52521832dfb8c - Time: 454ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 17.94 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:24:33.857Z - Hash: 79781ba6234e1b29 - Time: 470ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 18.18 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:24:38.088Z - Hash: 3624957dc810ae9f - Time: 478ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 18.19 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:25:33.207Z - Hash: 3c16c02f6f216a3a - Time: 439ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 18.37 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:25:46.567Z - Hash: 9702eb702ddaca1c - Time: 430ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 18.38 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:25:50.356Z - Hash: 7252b6ee35bdd83a - Time: 408ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 18.83 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:26:20.161Z - Hash: 56ab10a7cb890311 - Time: 435ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 19.26 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:26:47.792Z - Hash: 74791a8a409c8172 - Time: 505ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 19.30 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:26:52.078Z - Hash: 566dc723cd65229d - Time: 431ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 19.30 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:26:55.604Z - Hash: 40963665d345e9f8 - Time: 401ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 19.30 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:27:01.987Z - Hash: 570ac171bc029d92 - Time: 406ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 19.75 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:27:21.906Z - Hash: 7d7a873001c4c61c - Time: 430ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 19.84 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:27:35.686Z - Hash: 1ee72d7dbde787b0 - Time: 473ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 19.89 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:27:44.972Z - Hash: 5ade61f12bb6dfab - Time: 422ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 19.97 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:27:54.651Z - Hash: 35536b39e32a9fae - Time: 459ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.06 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:28:08.867Z - Hash: fe182ede5f06acac - Time: 475ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.12 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:28:25.060Z - Hash: a753fc45f405ccd5 - Time: 470ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.18 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:28:34.585Z - Hash: 69fbe0365726296b - Time: 421ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.39 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:28:56.712Z - Hash: a09d56556ae88ec3 - Time: 459ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.39 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:29:03.198Z - Hash: d434acc6f3425a7b - Time: 480ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.39 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:29:07.918Z - Hash: f12425ee4d4681b4 - Time: 390ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.42 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:29:39.789Z - Hash: 6fa884c5f4e0ed41 - Time: 400ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.46 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:29:54.349Z - Hash: af979a087a4ae991 - Time: 443ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.49 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:30:04.857Z - Hash: 8451127531cf513f - Time: 493ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.51 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:30:12.380Z - Hash: cec653669f823a32 - Time: 598ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.51 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:30:13.105Z - Hash: 69a71fedbe854746 - Time: 538ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.66 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:44:57.031Z - Hash: 8ac1f4820d557f0f - Time: 910ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.68 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:45:00.877Z - Hash: ec385059cc613d48 - Time: 691ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.66 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:45:10.825Z - Hash: 6a7706a13302291a - Time: 561ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.67 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:45:42.234Z - Hash: 6746706b2b89b4ab - Time: 603ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.68 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:45:52.587Z - Hash: a931c038b0a0a0a0 - Time: 743ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.69 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:46:00.982Z - Hash: 8759d7e9987479c5 - Time: 733ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.70 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:46:10.238Z - Hash: 71636f56947b3a30 - Time: 652ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.71 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:46:14.037Z - Hash: 6ad298281e4d24da - Time: 541ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.71 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:46:16.335Z - Hash: 343b3bf20548cee6 - Time: 440ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.76 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:48:01.636Z - Hash: cf0eaa61429be30d - Time: 821ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.76 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:48:09.592Z - Hash: 7a98bbb6c2f50b5d - Time: 575ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.77 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:48:12.611Z - Hash: bc9f9cc663b72a76 - Time: 552ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.76 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:48:15.174Z - Hash: 7a98bbb6c2f50b5d - Time: 470ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.76 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:48:17.692Z - Hash: 1160207d510c4513 - Time: 564ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.71 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:48:23.749Z - Hash: 343b3bf20548cee6 - Time: 472ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.72 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:48:30.190Z - Hash: 014b76a17313402f - Time: 598ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.78 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:48:36.051Z - Hash: 1d409e1e01718935 - Time: 598ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.86 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:48:59.685Z - Hash: 7511d0b78267d43e - Time: 535ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.78 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:49:02.563Z - Hash: e803899e1a4cfcd2 - Time: 863ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 20.96 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:49:27.956Z - Hash: a7811b34c37c2876 - Time: 617ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 21.14 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:50:05.702Z - Hash: 6ab7364ff3e9d8c6 - Time: 615ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 21.14 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:50:07.427Z - Hash: ca2ba33396757c21 - Time: 533ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 21.24 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:50:15.539Z - Hash: 9a4c1c8de694afba - Time: 508ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 21.33 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:52:21.266Z - Hash: e617fd007a3d574b - Time: 791ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 21.37 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:59:11.339Z - Hash: 6cd0749b299fca50 - Time: 666ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 21.37 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T21:59:38.678Z - Hash: 04214fdf4b7a3220 - Time: 587ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 21.32 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T22:00:43.889Z - Hash: bb5108d55fe76a8c - Time: 711ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 21.37 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T22:03:04.040Z - Hash: aba8ee1e0551a131 - Time: 647ms
+
+× Failed to compile.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 21.32 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T22:03:09.441Z - Hash: bb1840fd334b7b35 - Time: 531ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 21.37 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T22:04:01.189Z - Hash: c91bdeed605bc894 - Time: 576ms
+
+× Failed to compile.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 21.36 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T22:04:10.807Z - Hash: a0bfc8b3c28a34ae - Time: 545ms
+
+× Failed to compile.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 21.26 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T22:05:56.469Z - Hash: 695a9ff44b32d160 - Time: 684ms
+
+√ Compiled successfully.
+
+Initial Chunk Files | Names   | Raw Size
+main.js             | main    | 21.26 kB |
+runtime.js          | runtime |  6.54 kB |
+
+3 unchanged chunks
+
+Build at: 2023-03-28T22:06:05.722Z - Hash: 65f26cfbea969919 - Time: 532ms
+
+√ Compiled successfully.
